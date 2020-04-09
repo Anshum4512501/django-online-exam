@@ -1,0 +1,15 @@
+.right-image{
+    margin-top:5%;
+    width:80%;
+    height:40vh;
+    background:red;
+    border:10px solid #fff;
+    box-shadow:0 0 10px rgba(0,0,0 , 0.2)
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.left-col{
+    margin-top: 5%;
+}

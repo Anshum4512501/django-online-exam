@@ -1,0 +1,47 @@
+[
+{
+    "model": "resttest.emplyoee",
+    "pk": 1,
+    "fields": {
+        "name": "anshu",
+        "age": "23",
+        "profession": "cse"
+    }
+},
+{
+    "model": "resttest.emplyoee",
+    "pk": 2,
+    "fields": {
+        "name": "ankit",
+        "age": "24",
+        "profession": "SE"
+    }
+},
+{
+    "model": "resttest.emplyoee",
+    "pk": 3,
+    "fields": {
+        "name": "Pransu",
+        "age": "23",
+        "profession": "AF"
+    }
+},
+{
+    "model": "resttest.emplyoee",
+    "pk": 4,
+    "fields": {
+        "name": "Anjali",
+        "age": "16",
+        "profession": "SD"
+    }
+},
+{
+    "model": "resttest.emplyoee",
+    "pk": 5,
+    "fields": {
+        "name": "Vivek",
+        "age": "27",
+        "profession": "SD"
+    }
+}
+]
